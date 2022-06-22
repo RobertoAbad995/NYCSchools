@@ -6,3 +6,13 @@
 //
 
 import Foundation
+
+final class NYCSchools{
+    
+    internal func getList() -> [School]
+    {
+        return schoolsApiDAO().getList()
+    }
+    
+}
+

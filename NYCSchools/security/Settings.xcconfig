@@ -8,4 +8,5 @@
 // Configuration settings file format documentation can be found at:
 // https://help.apple.com/xcode/#/dev745c5c974
 
-OPEN_DATA_API_KEY = ""
+OPEN_DATA_API_KEY_SECRET = "3k61g9y3fsmt45dhkkbe8jmi48rsa7zybppp4i84j5ig6mvx4j"
+OPEN_DATA_API_KEY_ID = "ci0rwiv9hroygbplv8e930mij"
